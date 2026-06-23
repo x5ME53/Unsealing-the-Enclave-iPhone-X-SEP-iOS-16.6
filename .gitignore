@@ -1,0 +1,9 @@
+*.ipsw
+*.im4p
+*.bin
+sep.bin
+sepx.bin
+sep_out/
+sepx_out/
+Firmware/
+sepsplit-rs/
